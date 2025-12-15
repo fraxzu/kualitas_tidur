@@ -7,3 +7,4 @@ Notebook ini berisi analisis kualitas tidur menggunakan pendekatan data analysis
 
 ## Cara Menjalankan
 Buka notebook menggunakan Jupyter Notebook atau lihat versi render di Nbviewer.
+https://nbviewer.org/github/fraxzu/kualitas_tidur/blob/main/HASIL_1.ipynb
